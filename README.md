@@ -1,2 +1,3 @@
-# -meu-bash-
-bash script de loop entre outros comamndos de adm linux 
+#!/bin/python env
+#Python shell para automatizar tarefas de adm 
+#
